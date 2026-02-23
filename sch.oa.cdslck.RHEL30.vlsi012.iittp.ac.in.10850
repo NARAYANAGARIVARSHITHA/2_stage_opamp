@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user01
+HostName                       vlsi012.iittp.ac.in
+ProcessIdentifier              10850
+ProcessCreationTime_UTC        1771825254
+ProcessCreationTime_Readable   Mon Feb 23 11:10:54 2026 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/user01/Desktop/Cadence_Work/EE23B033_52/2_stage_opamp/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Mon Feb 23 11:11:04 2026 IST
